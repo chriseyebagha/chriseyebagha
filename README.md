@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chriseyebagha
-- 👀 I’m interested in Data analytics, data science and  IT consulting.
+- 👀 I’m interested in Data analytics, data science, DevOps and  IT consulting.
 - 🌱 I’m currently learning Applied Machine Learning...
 - 💞️ I’m looking to collaborate on.
 - 📫 How to reach me email @ chriseyebagha@gmail.com.
